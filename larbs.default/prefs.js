@@ -99,6 +99,7 @@ user_pref("general.warnOnAboutConfig", false);
 user_pref("geo.enabled", false);
 user_pref("idle.lastDailyNotification", 1533312759);
 user_pref("lightweightThemes.usedThemes", "[]");
+user_pref("lightweightThemes.selectedThemeID", "firefox-compact-dark@mozilla.org");
 user_pref("media.gmp-gmpopenh264.abi", "x86_64-gcc3");
 user_pref("media.gmp-gmpopenh264.lastUpdate", 1533312601);
 user_pref("media.gmp-gmpopenh264.version", "1.7.1");
