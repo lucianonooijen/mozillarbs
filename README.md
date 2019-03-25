@@ -17,7 +17,7 @@ Here's the junk removed from Firefox:
 - Telemetry
 - Geolocation
 - Push/web notifications
-- Websites being able to affect the system cliboard
+- Websites being able to affect the system clipboard
 - Prefetching (Firefox contacting websites you haven't clicked)
 - The Pocket
 
